@@ -1,0 +1,6 @@
+Nombre         Calificación 1  Calificación 2  Calificación 3
+q                     1              2              3
+qwe                   2              3              1
+frew                  1              2              5
+qweqwe                5              1              1
+gregre                2              6              5
